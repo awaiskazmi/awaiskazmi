@@ -1,6 +1,6 @@
 # Salaam! 🤝
 
-Welcome to my GitHub profile! I'm Awais, a passionate Senior Frontend Developer with over 9 years of experience building delightful user experiences. My expertise lies in developing modern websites and web applications using JavaScript, React, Next.js and TypeScript. I have a keen eye for detail and a knack for creating accessible and user-friendly interfaces.
+Welcome to my GitHub profile! I'm Awais, a passionate Product Engineer with close to 10 years of experience building delightful user experiences. My expertise lies in designing and developing modern websites and web applications using JavaScript, React, Next.js and TypeScript. I have a keen eye for detail and a knack for creating accessible and user-friendly interfaces.
 
 ### 🚀 Skills
 - **Languages:** JavaScript, TypeScript
